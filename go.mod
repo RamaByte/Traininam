@@ -1,3 +1,3 @@
-module github.com/RamaByte/GoPractice
+module github.com/RamaByte/Traininam
 
 go 1.25.4
